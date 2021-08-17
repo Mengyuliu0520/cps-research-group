@@ -4,7 +4,7 @@ widget_id: ss
 headless: true
 weight: 10
 title: Cyber-Physical Systems Laboratory
-hero_media: welcome.jpg
+hero_media: embeddedimage.jpg
 design:
   columns: "1"
   css_style: null
