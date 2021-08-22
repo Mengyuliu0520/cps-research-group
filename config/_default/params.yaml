@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: fkong03@syr.edu
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 111 College Pl
+  city: Syracuse
+  region: NY
+  postcode: '13244'
   country: United States
   country_code: US
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Electrical Engineering and Computer Science Center for Science and Technology room 4-295
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
