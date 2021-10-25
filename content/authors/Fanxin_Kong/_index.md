@@ -18,8 +18,7 @@ organizations:
   url: "https://sites.google.com/site/fanxink/home?authuser=0"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Dr. Fanxin Kong is a tenure-track assistant professor in the Department of Electrical Engineering and Computer Science at Syracuse University. Before that, he worked with Prof. Insup Lee as a postdoctoral researcher in the PRECISE Center at University of Pennsylvania. He obtained his Ph.D. in Computer Science at McGill University under the supervision of Prof. Xue Liu.
 interests:
 - Security: attack detection and real-time recovery
 - Real-time and energy-efficiency: resource management, workload scheduling, and mechanism design
