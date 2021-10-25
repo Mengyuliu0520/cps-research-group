@@ -1,6 +1,6 @@
 ---
 title: "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review
-  and Vision(EMSOFT2021)"
+  and Visions(EMSOFT2021)"
 publication_types:
   - "0"
 draft: false
