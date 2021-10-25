@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the Team
-subtitle:
+subtitle: Cyber Physical
 
 content:
   # Choose which groups/teams of users to display.
