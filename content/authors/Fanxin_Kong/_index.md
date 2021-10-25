@@ -10,32 +10,33 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor in Electrical Engineering & Computer Science
 
 # Organizations/Affiliations
 organizations:
 - name: Syracuse University
-  url: ""
+  url: "https://sites.google.com/site/fanxink/home?authuser=0"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Security: attack detection and real-time recovery
+- Real-time and energy-efficiency: resource management, workload scheduling, and mechanism design
+- Intelligent CPS: trajectory planning and task allocation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Science
+    institution: McGill University
+   
+  - course: M.S. in Computer Science
+
+    institution: Northeastern University (CN)
+    
+  - course: B.S. in Computer Science, 
+    institution: Northeastern University (CN)
+   
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
