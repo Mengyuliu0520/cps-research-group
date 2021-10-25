@@ -1,5 +1,6 @@
 ---
 title: Applying Machine Learning in Designing Distributed Auction for Multi-agent Task Allocation with Budget Constraints
+page_type = "publication"
 publication_types:
   - "0"
 draft: false
