@@ -14,6 +14,6 @@ design:
 
 <!--StartFragment-->
 
-Dr. Fanxin Kong is a tenure-track assistant professor in the Department of Electrical Engineering and Computer Science at Syracuse University. Before that, he worked as a postdoctoral researcher in the PRECISE Center at University of Pennsylvania. He completed his Ph.D. in Computer Science at McGill University.
+Fanxin Kong is a tenure-track assistant professor in the Department of Electrical Engineering and Computer Science at Syracuse University. Before that, he worked as a postdoctoral researcher in the PRECISE Center at University of Pennsylvania. He completed his Ph.D. in Computer Science at McGill University.
 
 <!--EndFragment-->
