@@ -1,7 +1,8 @@
 ---
 # Display name
 title: Fanxin Kong
-
+# Username (this should match the folder name)
+- admin
 # Is this the primary user of the site?
 superuser: true
 
@@ -27,10 +28,8 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: McGill University
-
   - course: M.S. in Computer Science
-    institution: Northeastern University (CN)
-    
+    institution: Northeastern University (CN)  
   - course: B.S. in Computer Science,
     institution: Northeastern University (CN)
  
@@ -42,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'fkong03@syr.edu'
+  link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
