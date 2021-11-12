@@ -1,6 +1,6 @@
 ---
 title: Fanxin Kong
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 bio: Dr. Fanxin Kong is a tenure-track assistant professor in the Department of
   Electrical Engineering and Computer Science at Syracuse University. Before
   that, he worked with Prof. Insup Lee as a postdoctoral researcher in the
