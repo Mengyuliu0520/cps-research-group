@@ -1,5 +1,5 @@
 ---
-title: "Zifan "
+title: "Zifan Wang"
 avatar_filename: avatar.jpg
 social:
   - display:
