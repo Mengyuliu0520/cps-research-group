@@ -10,11 +10,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Syracuse University
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include security, sustainability and real-time aspects for Cyber-Physical Systems (CPS) and Internet of Things (IoT). My application areas include automobiles and transportation systems, cloud and data centers, and power and energy systems. My research techniques include optimization, algorithm design, data analysis, machine learning, control, and game theory.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
@@ -68,10 +68,6 @@ user_groups:
 - Researchers
 ---
 
-Dr. Fanxin Kong is a tenure-track assistant professor in the Department of
-  Electrical Engineering and Computer Science at Syracuse University. Before
-  that, he worked with Prof. Insup Lee as a postdoctoral researcher in the
-  PRECISE Center at University of Pennsylvania. He obtained his Ph.D. in
-  Computer Science at McGill University under the supervision of Prof. Xue Liu.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
