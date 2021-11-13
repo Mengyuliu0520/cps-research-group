@@ -2,11 +2,8 @@
 title: Fanxin Kong
 role: Professor at Syracuse University
 avatar_filename: avatar.jpg
-bio: Dr. Fanxin Kong is a tenure-track assistant professor in the Department of
-  Electrical Engineering and Computer Science at Syracuse University. Before
-  that, he worked with Prof. Insup Lee as a postdoctoral researcher in the
-  PRECISE Center at University of Pennsylvania. He obtained his Ph.D. in
-  Computer Science at McGill University under the supervision of Prof. Xue Liu.
+bio: My research interests include security, sustainability and real-time aspects for Cyber-Physical Systems (CPS) and Internet of Things (IoT). My application areas include automobiles and transportation systems, cloud and data centers, and power and energy systems. My research techniques include optimization, algorithm design, data analysis, machine learning, control, and game theory.
+
 interests:
   - Cybe-Physical Systems
   - Security:attack detection and real-time recovery
@@ -47,3 +44,5 @@ superuser: false
 user_groups:
   - Researchers
 ---
+
+Dr. Fanxin Kong is a tenure-track assistant professor in the Department of Electrical Engineering and Computer Science at Syracuse University. Before that, he worked with Prof. Insup Lee as a postdoctoral researcher in the PRECISE Center at University of Pennsylvania. He obtained his Ph.D. in Computer Science at McGill University under the supervision of Prof. Xue Liu.
