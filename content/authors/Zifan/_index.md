@@ -1,5 +1,6 @@
 ---
 title: "Zifan Wang"
+role: P.h.D student at Syracuse University
 avatar_filename: avatar.jpg
 social:
   - display:
