@@ -45,7 +45,7 @@ tags:
   - Cyber-physical systems
   - Predictive models
 image:
-  filename: featured
+  filename: bg.png
   focal_point: Smart
   preview_only: false
 date: 2021-11-13T05:48:57.506Z
