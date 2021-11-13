@@ -1,13 +1,16 @@
 ---
 title: "An example conference paper"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Chen Luo
+- Qinwei Huang
+- Fanxin Kong
+- Simon Khan
+- Qinru Qiu
+date: "2021-01-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +22,36 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Real-time advertising allows advertisers to bid for each impression
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+  for a visiting user. To optimize specific goals such as maximizing
+
+  revenue and return on investment (ROI) led by ad placements, advertisers not only need to estimate the relevance between the ads and
+
+  user’s interests, but most importantly require a strategic response
+
+  with respect to other advertisers bidding in the market. In this paper,
+
+  we formulate bidding optimization with multi-agent reinforcement
+
+  learning. To deal with a large number of advertisers, we propose a
+
+  clustering method and assign each cluster with a strategic bidding
+
+  agent. A practical Distributed Coordinated Multi-Agent Bidding
+
+  (DCMAB) has been proposed and implemented to balance the tradeoff between the competition and cooperation among advertisers.
+
+  The empirical study on our industry-scaled real-world data has
+
+  demonstrated the effectiveness of our methods. Our results show
+
+  cluster-based bidding would largely outperform single-agent and
+
+  bandit approaches, and the coordinated bidding achieves better
+
+  overall objectives than purely self-interested bidding agents.
+
 
 tags:
 - Source Themes
@@ -30,7 +59,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://ieeexplore.ieee.org/document/9325548/keywords#keywords
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
 url_dataset: '#'
