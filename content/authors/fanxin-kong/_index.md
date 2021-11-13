@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - fanxin-kong
-title: Fanxin Kong
+title: 
 role: Professor at Syracuse University
 bio: My research interests include security, sustainability and real-time aspects for Cyber-Physical Systems (CPS) and Internet of Things (IoT). My application areas include automobiles and transportation systems, cloud and data centers, and power and energy systems. My research techniques include optimization, algorithm design, data analysis, machine learning, control, and game theory.
 
