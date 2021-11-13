@@ -31,7 +31,14 @@ abstract: Effective mitigation of thermal overloads is crucial in preventing
   optimal mitigations in a finite prediction horizon.
 draft: false
 featured: false
-tags: []
+tags:
+  - Power measurement
+  - Phasor measurement units
+  - Data models
+  - Transmission line measurements
+  - Time measurement
+  - Load modeling
+  - Topology
 image:
   filename: featured
   focal_point: Smart
