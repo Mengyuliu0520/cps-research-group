@@ -11,5 +11,5 @@ organizations:
   - name: Syracuse University
 superuser: false
 user_groups:
-  - alumni 
+  - Alumni 
 ---
