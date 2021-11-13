@@ -35,7 +35,7 @@ education:
       institution: Northeastern University (CN)
     - course: B.S. in Computer Science
       institution: Northeastern University (CN)
-email: "fkong03@syr.edu"
+email: ""
 user_groups:
   - Researchers
 ---
