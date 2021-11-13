@@ -28,14 +28,14 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Ph.D. in Computer Science
+      institution: McGill University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: M.S. in Computer Science
+      institution: Northeastern University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: B.S. in Computer Science
+      institution: Northeastern University
       year: 2008
 email: ""
 user_groups:
@@ -43,4 +43,4 @@ user_groups:
   
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Fanxin Kong is a tenure-track assistant professor in the Department of Electrical Engineering and Computer Science at Syracuse University. Before that, he worked with Prof. Insup Lee as a postdoctoral researcher in the PRECISE Center at University of Pennsylvania. He obtained his Ph.D. in Computer Science at McGill University under the supervision of Prof. Xue Liu.
