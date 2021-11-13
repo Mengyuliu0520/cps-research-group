@@ -28,6 +28,19 @@ social:
     link: https://dblp.uni-trier.de/pid/32/8375.html
     icon_pack: ai
     icon: dblp
+    
+education:
+  courses:
+    - course: Ph.D. in Computer Science
+      institution: McGill University
+      year: 2012
+    - course: M.S. in Computer Science
+      institution: Northeastern University
+      year: 2009
+    - course: B.S. in Computer Science
+      institution: Northeastern University
+      year: 2008
+      
 organizations:
   - name: Syracuse University
 superuser: false
