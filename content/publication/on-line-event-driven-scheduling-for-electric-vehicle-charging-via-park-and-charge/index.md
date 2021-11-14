@@ -1,0 +1,54 @@
+---
+title: On-Line Event-Driven Scheduling for Electric Vehicle Charging via
+  Park-and-Charge
+publication_types:
+  - "1"
+authors:
+  - Fanxin Kong
+  - Qiao Xiang
+  - Linghe Kong
+  - and Xue Liu
+doi: 10.1109/RTSS.2016.016
+publication: 2016 IEEE Real-Time Systems Symposium (RTSS)
+publication_short: IEEE
+abstract: Large-scale charging stations become indispensable infrastructure to
+  support the rapid proliferation of electric vehicles. Their operation modes
+  have drawn great attention from both academia and industry. One promising mode
+  called park-and-charge has been recently introduced. This new mode allows
+  customers to park their electric vehicles at a parking lot, where the vehicles
+  are charged during the parking time. Several small-scale experiments, such as
+  the V-Charge project and General Motors' E-Motor plant, have demonstrated its
+  potential. A key enabler for deploying this mode to large-scale stations is
+  effective and efficient charging load scheduling methods. Most existing works
+  confine to the time-driven scheduling policy due to their sole focus on the
+  charging service. Applying their solutions to the park-and-charge mode would
+  jeopardize the unitization of charging resource or cause frequent charging
+  mode switching. This inapplicability motivates us to explore the feasibility
+  and benefits of exploiting the event-driven scheduling policy in
+  park-and-charge systems. Further, to better characterize charging load in this
+  mode, we propose to adopt a metered model, by which a system gains value in
+  proportion to the served charging demand. To be specific, the objective of
+  this paper is to carry out both theoretical and experimental analysis for
+  event-driven algorithms adapted to this metered model. We leverage both the
+  competitive analysis and resource augmentation to demonstrate the non-constant
+  and constant performance bounds for the earliest-deadline-first and
+  highest-value-first algorithms respectively. Moreover, we provide a stronger
+  theoretical result, i.e., the performance bound for the whole class of
+  work-conserving scheduling algorithms. Through extensive simulations, we
+  validate the proposed theoretical results and further provide interesting
+  findings from the in-depth analysis of the simulation results.
+draft: false
+featured: false
+tags:
+  - Electric vehicles
+  - Algorithm design and analysis
+  - State of charge
+  - Adaptation models
+  - Switches
+  - Batteries
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2021-11-14T21:06:09.551Z
+---
