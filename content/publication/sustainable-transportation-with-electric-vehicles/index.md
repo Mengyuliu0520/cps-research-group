@@ -3,8 +3,7 @@ title: Sustainable Transportation with Electric Vehicles
 publication_types:
   - "5"
 authors:
-  - Fanxin Kong
-  - Xue Liu
+  - Fanxin Kong and Xue Liu
 author_notes:
   - Fanxin Kong
   - University of Pennsylvania
@@ -14,6 +13,7 @@ author_notes:
   - McGill University
   - Canada
   - xueliu@cs.mcgill.ca
+doi: 10.1561/3100000016
 publication: Foundations and TrendsR in Electric Energy Systems (FnTEES), now
   publishers Inc., 2017
 abstract: >+
@@ -55,12 +55,28 @@ abstract: >+
 
 draft: false
 featured: false
-categories:
+tags:
   - Power system operation
   - System Level Design
+categories: []
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: >-
+  While electric vehicles (EVs) are becoming increasingly popular. Their low oil
+  dependency and low emissions will significantly benefit the environment.
+  However, as demand increases for EVs, their prevalence will also lead to two
+  crucial consequences. First, electric vehicles introduce a heavy load impact
+  onto the power grid by shifting energy demand from gasoline to electricity.
+  The surging load is likely to compromise the grid’s reliability and jeopardize
+  its power supply quality. Second, charging stations become indispensable
+  infrastructure to support widescale deployment of EVs. EVs will therefore find
+  themselves competing for both power supply and charging stations. Such
+  competition can degrade quality of service and thus compromise the original
+  intent of advocating electric vehicles.
+
+
+  Sustainable Transportation with Electric Vehicles investigates smart electric vehicle charging. It focuses jointly on the quality of service for EV users and the stability and reliability of the power grid. It lays out a solution framework that addresses many of the key problems arising from both the lower and upper levels. The proposed solutions are developed mainly using techniques from the optimization, game theory, algorithmic, and scheduling fields.
 date: 2021-11-14T22:12:11.516Z
 ---
