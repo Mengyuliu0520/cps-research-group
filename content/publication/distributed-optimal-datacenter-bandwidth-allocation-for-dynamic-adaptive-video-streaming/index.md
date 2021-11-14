@@ -1,7 +1,6 @@
 ---
 title: Distributed Optimal Datacenter Bandwidth Allocation for Dynamic Adaptive
   Video Streaming
-subtitle: "Link: https://ieeexplore.ieee.org/document/7383561/keywords#keywords"
 publication_types:
   - "1"
 authors:
@@ -11,6 +10,7 @@ authors:
   - Xue Liu and Haibing Guan
 doi: 10.1109/RTSS.2015.10
 publication: 2015 IEEE Real-Time Systems Symposium
+"Link: https://ieeexplore.ieee.org/document/7383561/keywords#keywords"
 publication_short: IEEE
 abstract: Demand response is an important feature and functionality of the
   future smart grid. Electric vehicles are recognized as a particularly
