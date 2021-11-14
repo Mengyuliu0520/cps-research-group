@@ -3,7 +3,8 @@ title: Sustainable Transportation with Electric Vehicles
 publication_types:
   - "5"
 authors:
-  - Fanxin Kong and Xue Liu
+  - Fanxin Kong
+  - Xue Liu
 author_notes:
   - Fanxin Kong
   - University of Pennsylvania
