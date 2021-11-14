@@ -66,17 +66,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: >-
-  Real-time embedded systems are widely deployed in mission-critical
-  applications, such as avionics mission computing, highway traffic control,
-  remote patient monitoring, wireless communications, navigation, etc. These
-  applications always require their real-time and embedded components to work in
-  open and unpredictable environments, where workload is volatile and unknown.
-  In order to guarantee the temporal correctness and avoid severe
-  underutilization or overload, it is of vital significance to measure, control,
-  and optimize the processor utilization adaptively.
-
-
-  This monograph examines utilization control and optimization in real-time embedded systems. In many practical real-time embedded applications, it is desired to keep the processors’ utilizations at the schedulable upper bounds. In this way, the systems deliver their best Quality of Service (QoS), and, at the same time, all real-time tasks remain schedulable. In order to achieve this goal, the authors present several effective solutions that adaptively adjust task rates and/or processor frequencies to enforce the desired utilization. Feedback control and optimization techniques have been leveraged to ensure that a system is neither overloaded nor underutilized.
 date: 2021-11-14T22:15:01.473Z
 ---
