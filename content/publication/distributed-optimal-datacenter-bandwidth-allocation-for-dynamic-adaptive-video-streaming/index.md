@@ -10,8 +10,7 @@ authors:
   - Xue Liu and Haibing Guan
 doi: 10.1109/RTSS.2015.10
 publication: 2015 IEEE Real-Time Systems Symposium
-"Link: https://ieeexplore.ieee.org/document/7383561/keywords#keywords"
-publication_short: IEEE
+publication_short: IEEE https://ieeexplore.ieee.org/document/7383561/keywords#keywords
 abstract: Demand response is an important feature and functionality of the
   future smart grid. Electric vehicles are recognized as a particularly
   promising resource for demand response given their high charging demand and
