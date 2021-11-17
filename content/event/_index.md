@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: CPSlab - Equipments and Testbeds
 
 # View.
 #   1 = List
