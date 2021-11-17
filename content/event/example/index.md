@@ -2,7 +2,7 @@
 title: testbed
 
 # event: Wowchemy Conference
-# event_url: https://example.org
+event_url: https://example.org
 
 # location: Wowchemy HQ
 # address:
