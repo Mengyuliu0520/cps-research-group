@@ -5,14 +5,14 @@ event: Wowchemy Conference
 event_url: https://example.org
 
 location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# address:
+  # street: 450 Serra Mall
+  # city: Stanford
+  # region: CA
+  # postcode: '94305'
+  # country: United States
 
-summary: Camera
+summary: These are the cars.....
 abstract: "Introduction of testbed"
 
 # Talk start and end times.
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ""
