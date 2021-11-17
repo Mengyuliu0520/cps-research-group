@@ -14,7 +14,7 @@ main:
     url: event
     weight: 40
   - name: Testbed
-    url: testbed
+    url: event
     weight: 40
   - name: Publications
     url: publication
