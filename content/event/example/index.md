@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: ''
+  caption: 'Photo by Mengyu Liu'
   focal_point: Right
 
 url_code: ""
