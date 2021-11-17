@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: testbed
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,8 +12,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Camera
+abstract: "Introduction of testbed"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
