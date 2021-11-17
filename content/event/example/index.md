@@ -1,8 +1,8 @@
 ---
 title: testbed
 
-event: Wowchemy Conference
-event_url: https://example.org
+# event: Wowchemy Conference
+# event_url: https://example.org
 
 location: Wowchemy HQ
 # address:
@@ -17,8 +17,8 @@ abstract: "Introduction of testbed"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+# date: "2030-06-01T13:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
