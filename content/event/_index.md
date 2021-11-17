@@ -1,5 +1,5 @@
 ---
-title: CPSlab - Equipments and Testbeds
+title: CPSLab - Equipments and Testbeds
 
 # View.
 #   1 = List
