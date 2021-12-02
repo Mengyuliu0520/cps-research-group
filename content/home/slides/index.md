@@ -3,8 +3,8 @@ title: Slides
 weight: 5
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    gradient_start: '#4bb4f3'
+    gradient_end: '#2b94d3'
     text_color_light: true
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
