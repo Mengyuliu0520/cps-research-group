@@ -1,6 +1,6 @@
 ---
 title: Slides
-weight: 5
+weight: 75
 design:
   background:
     gradient_start: '#4bb4f3'
