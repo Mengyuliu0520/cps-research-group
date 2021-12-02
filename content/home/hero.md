@@ -1,27 +1,11 @@
 ---
-widget: hero
-headless: true
-weight: 5
-title: Add a slide here
-hero_media: book.svg
-design:
-  background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    text_color_light: true
-# cta:
-#  url: docs/
-#  label: Get Started
-#  icon_pack: fas
-#  icon: download
-# cta_alt:
-#  url: docs/
-#  label: View Documentation
-# cta_note:
-#  label: >-
-#    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-#      Show your product version here:<!-- Automatically filled based on data-repo value -->
-#    </span>
+title: Slides
+weight：5
+summary: An introduction to using Wowchemy's Slides feature.
+authors: []
+tags: []
+categories: []
+date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -175,8 +159,9 @@ Create `assets/css/reveal_custom.css` with:
 ```
 
 ---
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
-Write something interesting about your project here.
+# Questions?
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
+
+[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
