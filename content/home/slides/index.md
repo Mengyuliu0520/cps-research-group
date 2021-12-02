@@ -5,7 +5,7 @@ design:
   background:
     gradient_start: '#4bb4f3'
     gradient_end: '#2b94d0'
-    text_color_light: true
+    text_color: white
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
@@ -34,17 +34,4 @@ slides:
 
 ---
 
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
-
----
 
