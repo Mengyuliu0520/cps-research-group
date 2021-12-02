@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 5
-title: Project Docs Template
+title: Add a slide here
 hero_media: book.svg
 design:
   background:
