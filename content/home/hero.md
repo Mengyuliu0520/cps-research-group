@@ -22,6 +22,12 @@ cta_note:
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
       Show your product version here:<!-- Automatically filled based on data-repo value -->
     </span>
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: black
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
 ---
 
 Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
