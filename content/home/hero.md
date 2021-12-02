@@ -1,5 +1,4 @@
 ---
-{{ range .Pages.ByWeight }}
 widget: hero
 headless: true
 weight: 10
