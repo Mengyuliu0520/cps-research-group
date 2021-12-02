@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 5
 title: Project Docs Template
 hero_media: book.svg
 design:
