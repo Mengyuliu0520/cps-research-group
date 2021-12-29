@@ -12,5 +12,5 @@ organizations:
   - name: Syracuse University
 superuser: false
 user_groups:
-  - Researchers
+  - Undergraduate Students
 ---
