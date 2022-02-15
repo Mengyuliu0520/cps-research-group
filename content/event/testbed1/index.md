@@ -12,8 +12,8 @@ event_url: https://example.org
   # postcode: '94305'
   # country: United States
 
-summary: These are the cars.....
-abstract: "Introduction of testbed"
+summary: Testbed1
+abstract: "This is the first testbed"
 date: 2021-11-01T13:43:19.873Z
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
