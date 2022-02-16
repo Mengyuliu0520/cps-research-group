@@ -24,8 +24,8 @@ date: 2022-02-15
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+# authors: []
+# tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -34,10 +34,10 @@ image:
   caption: 'Photo by Mengyu Liu'
   focal_point: Right
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
