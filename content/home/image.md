@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: embeddedimage1.jpg
+    image: embeddedimage.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
