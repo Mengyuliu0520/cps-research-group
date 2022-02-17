@@ -6,9 +6,7 @@
 title:  Welcome to CPSLAB # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-_build:
-  render: always
-  list: never
+
 ############################
 ## LANGUAGE
 ############################
