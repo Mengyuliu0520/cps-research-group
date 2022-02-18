@@ -33,11 +33,11 @@ featured: false
 image:
   caption: 'Photo by Mengyu Liu'
   focal_point: Right
-{{< video src="my_video.mp4" controls="yes" >}}
+
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
-# url_video: ""
+url_video: "https://www.youtube.com/embed/enMumwvLAug"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
