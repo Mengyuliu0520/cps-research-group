@@ -39,6 +39,8 @@ image:
 # url_slides: ""
 url_video: "https://www.youtube.com/embed/enMumwvLAug"
 
+<a href="https://www.youtube.com/embed/enMumwvLAug" target="_blank"><img src="https://www.youtube.com/embed/enMumwvLAug/featured.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
